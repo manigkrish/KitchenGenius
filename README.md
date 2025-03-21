@@ -1,5 +1,3 @@
-# KitchenGenius
-
 # Kitchen Genius - AI-powered Recipe Assistant
 
 ## Inspiration
